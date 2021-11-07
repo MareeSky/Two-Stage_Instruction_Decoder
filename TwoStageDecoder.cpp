@@ -11,7 +11,7 @@
     References:
     [1] http://www.cprogramming.com/tutorial/cfileio.html
     [2] http://stackoverflow.com/questions/18693841/read-contents-of-a-file-as-hex-in-c
-    [3] http://csciwww.etsu.edu/tarnoff/labs4717/decode_F06_test_suite.pdf
+    [3] https://faculty.etsu.edu/tarnoff/labs4717/decode_F06_test_suite.pdf
     [*] Also implements some of the example code provided in the project prompt
  */
 
